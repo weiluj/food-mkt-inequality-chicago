@@ -20,6 +20,7 @@
 
 <img width="1440" alt="Screenshot 2023-05-17 at 15 25 48" src="https://github.com/weiluj/food-mkt-inequality-chicago/assets/102543435/c177b3b1-8c89-4c20-ad6b-f90510418bac">
 
-<br>
+<br>  
+
 
 [Access the Map](https://arcg.is/1KDfrD)
