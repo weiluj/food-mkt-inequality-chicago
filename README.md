@@ -1,3 +1,3 @@
 # Food Markets and Socioeconomic Inequality Analysis in Chicago
 This project visualized the spatial distribution of food markets in Chicago with community poverty rate and healthcare well-being indicators by Communities.  
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Supermarkets_Chicago_Poverty_Obesity" src="//www.arcgis.com/apps/Embed/index.html?webmap=712bfb00137c459496369164a9bfbb38&extent=-88.0175,41.6664,-87.2595,42.0138&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
+https://arcg.is/1KDfrD
