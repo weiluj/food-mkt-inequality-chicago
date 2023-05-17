@@ -1,6 +1,6 @@
 # Food Markets and Socioeconomic Inequality Analysis in Chicago
 
-### The map reveals a correlation between the distribution of supermarkets and poverty rates in Chicago:
+### `The map reveals a correlation between the distribution of supermarkets and poverty rates in Chicago`:
 
 - __Near North Side communtiy has the highest number of new supermarkets__ (5), while "Lower West Side" and "Logan Square" have 3 new supermarkets each, with an additional one on the boundary for each. These communities already have a high density of supermarkets; Communities with lower poverty rates, mostly located around the Loop and the north side, generally have more supermarkets. In contrast, __communities with higher poverty rates, mainly located in the west and south sides with a high percentage of Hispanic and Black residents, have fewer supermarkets, especially in Englewood and East Garfield Park__. An analysis of teen pregnancy rates I did for assignment 1 also showed that these communities have some of the highest rates. The __distribution of supermarkets and poverty rates aligns with the spatial patterns of teen pregnancy rates__.
 
